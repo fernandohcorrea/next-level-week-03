@@ -31,3 +31,19 @@ $ create-react-app happy
 
 ---
 
+## Demais instalações
+
+
+### Rotas
+
+```bash
+$ npm install react-router-dom
+$ npm install @types/react-router-dom -D
+```
+
+### Mapas com Leaflet
+```bash
+$ npm install leaflet react-leaflet
+$ npm install @types/react-leaflet -D
+```
+
